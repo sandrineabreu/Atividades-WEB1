@@ -1,7 +1,5 @@
 # Atividades-WEB1
 
-nome Sandrine Abreu
-
 ## Olá! Bem-vindo ao meu repositório de Desenvolvimento Web 1. Nesta disciplina, estamos aprendendo os conceitos básicos de criação de páginas e aplicações web, explorando HTML, CSS e JavaScript. Nosso objetivo é entender como estruturar, estilizar e tornar as páginas interativas, preparando o caminho para projetos mais avançados no futuro. Ao longo da disciplina, realizamos 14 atividades práticas que ajudaram a consolidar o aprendizado. Abaixo, você pode conferir os links de todas essas atividades, que mostram o que foi desenvolvido em sala de aula.
 
 [Atividade 1](https://sandrineabreu.github.io/Atividade1/)
